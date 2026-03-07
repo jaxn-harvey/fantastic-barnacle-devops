@@ -5,5 +5,5 @@ Spring 2026 CIS 486.
 
 ## submissions. 
 
-- Dr. Cumbie's MINI-APP :octocat: Repository: https://github.com/barrycumbie/literate-fortnight-yar
+- Jackson's MINI-APP :octocat: Repository: https://github.com/jaxn-harvey/test-app-devops-1-2026
 
